@@ -1,9 +1,8 @@
 {
   "name": "Image Placeholder Generator",
-  "desc": "Easily generate custom image placeholder for mockups or design placeholders in any size you need. Choose dimensions, add optional text, select colors, and download instantly in JPG, PNG, WebP, or SVG.",
+  "desc": "Generate custom image placeholder for mockups or design placeholders. in any size you need.",
   "url": "https://imageplaceholder.dev/",
   "tags": [
-    "Images",
     "Misc"
   ],
   "maintainers": [
